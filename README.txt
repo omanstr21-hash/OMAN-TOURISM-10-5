@@ -4,3 +4,5 @@
 
 التشغيل: افتح ملف index.html في المتصفح أو استخدم Go Live في Visual Studio Code.
 للنشر على GitHub Pages: ارفع الملفات الخمسة إلى جذر المستودع، ثم Settings > Pages > Deploy from a branch > main / (root).
+
+تحديث الصور: تم استبدال الرموز في صفحة الأماكن السياحية بروابط صور حقيقية من Wikimedia Commons. تحتاج الصور إلى اتصال بالإنترنت أثناء عرض الموقع.
