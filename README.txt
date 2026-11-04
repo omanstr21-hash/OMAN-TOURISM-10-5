@@ -1,0 +1,6 @@
+مشروع السياحة في سلطنة عمان
+الطالبات: حور الراشدي، رغد الفارسي، نسؤين الحضرمي
+الصف: 10/5
+
+التشغيل: افتح ملف index.html في المتصفح أو استخدم Go Live في Visual Studio Code.
+للنشر على GitHub Pages: ارفع الملفات الخمسة إلى جذر المستودع، ثم Settings > Pages > Deploy from a branch > main / (root).
